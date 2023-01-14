@@ -1,4 +1,14 @@
-### Hi there 👋
+### Iskhas Academia Soft inc.
+
+株式会社イスカスアカデメイアソフト
+
+# 情報
+- URL https://www.iskhas.com/
+- Note https://note.com/iskhas/
+- twitter https://twitter.com/Iskhas_inc
+
+
+
 
 <!--
 **iskhas-hq/iskhas-hq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
