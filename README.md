@@ -8,7 +8,7 @@
 - twitter https://twitter.com/Iskhas_inc
 
 # 所在地
-- 東京都 調布市
+- 東京都 調布市 調布ヶ丘
 
 
 <!--
