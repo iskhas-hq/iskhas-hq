@@ -1,12 +1,11 @@
-### Iskhas Academia Soft inc.
+# 株式会社イスカスアカデメイアソフト
+## Iskhas Academia Soft inc.
 
-株式会社イスカスアカデメイアソフト
 
 # 情報
 - URL https://www.iskhas.com/
 - Note https://note.com/iskhas/
 - twitter https://twitter.com/Iskhas_inc
-
 
 
 
