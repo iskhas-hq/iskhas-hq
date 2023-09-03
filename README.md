@@ -7,6 +7,8 @@
 - Note https://note.com/iskhas/
 - twitter https://twitter.com/Iskhas_inc
 
+# 所在地
+- 東京都
 
 
 <!--
